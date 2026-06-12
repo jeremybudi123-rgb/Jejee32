@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 -->
 🧠 Data Analysis: Developing clean, structured, and logical analytical models.
 🛠️ Tech Stack & Tools: Python, SQL, Power BI, Excel, Git & GitHub.
+📚 Continuous Growth: Always exploring new frameworks, tools, and business intelligence trends.
