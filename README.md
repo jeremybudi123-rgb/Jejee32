@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello World ! My name is Jeje
+I am a passionate Data Analyst Enthusiast and Data Scientist to help turning raw data into interactive, insightful, and visually compelling stories. Currently, I focus on building dashboards that bridge the gap between heavy data logic and clean, intuitive design.
 
 <!--
 **Jejee32/Jejee32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🧠 Data Analysis: Developing clean, structured, and logical analytical models.
+🛠️ Tech Stack & Tools: Python, SQL, Power BI, Excel, Git & GitHub.
